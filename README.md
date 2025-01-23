@@ -11,4 +11,12 @@ Topics: Question Formulation, Data Visualization
 ## Assignment 6
 Topics: Data Collection, Web APIs, Unit Tests
 
+## Assignment 7
+Topics: Web Scraping
+
+## Assignment 8
+Topics: Data Annotation
+
+## Assignment 9
+Topics: Word Frequency using TF-IDF
 
